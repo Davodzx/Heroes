@@ -7,3 +7,4 @@
 * Volcán Negro
 * Atom
 * Shazam
+* Obito
